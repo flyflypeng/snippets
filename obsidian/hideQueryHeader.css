@@ -1,0 +1,8 @@
+.markdown-preview-view .internal-query.is-embed .internal-query-header
+{
+    display:none;
+}
+.search-result-file-matched-text {
+    color: inherit;
+    background-color: inherit;
+}
